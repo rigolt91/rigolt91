@@ -1,1 +1,16 @@
-{"username":"rigolt91","id":"75335765","name":"Rigoberto Carmenate Mayo","company":"Freelance","web":"","location":"Las Tunas, Cuba","email":"rigolt91@gmail.com","hireable":true,"bio":"Desarrollador Web FullStack utilizando tecnologías como Laravel, Talwind, React Js, Nextjs, Prisma ORM, Postgresql, Mysql, Figma, PHP, JavaScript, CSS.","twitter_username":"","headline":"Ingeniero Informático","linkedin_username":"rigoberto-ltcu","telegram_username":"Rigolt","categories":["fullStackDev"]}
+{
+  "username":"rigolt91",
+  "id":"75335765",
+  "name":"Rigoberto Carmenate Mayo",
+  "company":"Freelance",
+  "web":"",
+  "location":"Las Tunas, Cuba",
+  "email":"rigolt91@gmail.com",
+  "hireable":true,
+  "bio":"Desarrollador Web FullStack utilizando tecnologías como Laravel, Talwind, React Js, Nextjs, Prisma ORM, Postgresql, Mysql, Figma, PHP, JavaScript, CSS.",
+  "twitter_username":"",
+  "headline":"Ingeniero Informático",
+  "linkedin_username":"rigoberto-ltcu",
+  "telegram_username":"Rigolt",
+  "categories":["fullStackDev", "frontendDev", "backendDev"]
+}
