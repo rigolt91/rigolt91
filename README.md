@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola, Yo soy Rigoberto  👋
+Un profesional con experiencia en desarrollo de aplicaciones web utilizando diferentes tecnologías (PHP, JAVASCRIPT, MYSQL, CSS) entre mis frameworks favoritos para desarrollo se encuentran Laravel, Talwind y React; También he desempeñado roles como administrador de sistemas y plataformas de servicios.
+Soy lo que se conoce como FullStack a la hora de realizar proyectos completos incluyendo Frontend y Backend. Me caracterizo por la responsabilidad, la seriedad y el aprendizaje constante.
 
 <!--
 **rigolt91/rigolt91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
